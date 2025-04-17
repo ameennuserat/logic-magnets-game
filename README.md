@@ -1,9 +1,9 @@
 # logic-magnets-game
 
-##dfs
-##bfs
-##ucs
-##hillclimbing
-##A*
+-dfs
+-bfs
+-ucs
+-hillclimbing
+-A*
 
-##urlgame  = https://www.coolmathgames.com/0-logic-magnets
+urlgame  = https://www.coolmathgames.com/0-logic-magnets
